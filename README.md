@@ -10,7 +10,7 @@ Drugi paragraf tekstu. Duis et justo vel urna aliquet convallis. Curabitur et ri
 
 ### Nagłówek 3
 
-Oto link do [u.gg bo w sumie czemu nie]((https://u.gg/)).
+Oto link do [u.gg bo w sumie czemu nie](https://u.gg/).
 
 #### Nagłówek 4
 
@@ -28,8 +28,7 @@ Poniżej znajduje się obrazek:
 
 ![obrazek](anime-girl.jpg)
 
-###### Nagłówek 6
-
+<!-- Stylowanie za pomocą HTML i CSS -->
 <style>
   table {
     width: 100%;
