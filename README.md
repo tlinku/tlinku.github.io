@@ -27,8 +27,6 @@ Poniżej znajduje się tabela:
 Poniżej znajduje się obrazek:
 
 ![obrazek](anime-girl.jpg)
-
-<!-- Stylowanie za pomocą HTML i CSS -->
 <style>
   table {
     width: 100%;
@@ -42,7 +40,7 @@ Poniżej znajduje się obrazek:
 
   th, td {
     padding: 10px;
-    text-align: left;
+    text-align: center;
   }
 
   th {
