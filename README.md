@@ -4,9 +4,9 @@ To jest przykładowy tekst zawierający nagłówki, paragrafy, linki, tabelę i 
 
 ## Nagłówek 2
 
-Pierwszy paragraf tekstu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi.
 
-Drugi paragraf tekstu. Duis et justo vel urna aliquet convallis. Curabitur et risus vitae ligula vestibulum laoreet.
+Duis et justo vel urna aliquet convallis. Curabitur et risus vitae ligula vestibulum laoreet.
 
 ### Nagłówek 3
 
@@ -24,8 +24,6 @@ Poniżej znajduje się tabela:
 
 ##### Nagłówek 5
 
-Poniżej znajduje się obrazek:
-
 ![obrazek](anime-girl.jpg)
 <style>
   table {
@@ -40,7 +38,7 @@ Poniżej znajduje się obrazek:
 
   th, td {
     padding: 10px;
-    text-align: center;
+    text-align: left;
   }
 
   th {
