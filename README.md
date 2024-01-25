@@ -10,7 +10,7 @@ Drugi paragraf tekstu. Duis et justo vel urna aliquet convallis. Curabitur et ri
 
 ### Nagłówek 3
 
-Oto link do [u.gg bo w sumie czemu nie](u.gg).
+Oto link do [u.gg bo w sumie czemu nie]((https://u.gg/)).
 
 #### Nagłówek 4
 
